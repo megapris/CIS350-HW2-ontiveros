@@ -7,6 +7,6 @@
 * 2 years of experience with Java
 * 2 years of experience with Arduino
 * 6 months of experience with Python
-* Mathematics and Engineering minnor
+* Mathematics and Engineering minor
 
-[My favorite meme!](https://lh3.googleusercontent.com/proxy/VJVrCHkigg5E9cn4Mh2OcZWkXfhar-N-Hi281huWEhS6nR4wKEjLSdedZpeo1oHXzT432h3F8neWsH9hrasHNh2guUa4RAjeZenONHNjRwuEdfXaAHU-iJQqlw_-UYkHo-SpDr9GcTX2OCw)
+[My favorite meme!](https://lh3.googleusercontent.com/proxy/VJVrCHkigg5E9cn4Mh2OcZWkXfhar-N-Hi281huWEhS6nR4wKEjLSdedZpeo1oHXzT432h3F8neWsH9hrasHNh2guUa4RAjeZenONHNjRwuEdfXaAHU-JQqlw_-UYkHo-SpDr9GcTX2OCw)
